@@ -1,0 +1,22 @@
+button 00b5f0	eb122e	12eb41
+border 0a3fdf	ce0909	099227
+hover 0b87f5	ad0a1f	099227
+on click 0a1e84	670512	
+
+on click 00b5f0
+
+google analytics
+i understand 
+
+
+<input type="submit" name="sendNewSms" class="inputButton" id="sendNewSms" value=" Send " />
+
+					<input type="checkbox"  onchange="document.getElementById('sendNewSms').disabled = !this.checked;" />
+
+timestamp 
+ip
+
+
+
+token popup
+ecocystem image pop up
